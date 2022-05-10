@@ -14,4 +14,6 @@ Welcome to my website!
 
 <img src="{{ site.url }}{{ site.baseurl }}/assets/headshot.jpg" width="" height="">
 
+Here is some information about me.
+
 
