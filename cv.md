@@ -6,11 +6,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: page
-title: Meredith Welch 
+title: CV
 permalink: /cv/
 ---
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/headshot.jpg" width="100" height="100">
-
-
-<embed src="{{ site.url }}{{ site.baseurl }}/assets/Welch_CV_042022.pdf" type="application/pdf" />
+<embed src="{{ site.url }}{{ site.baseurl }}/assets/Welch_CV_042022.pdf"/>
