@@ -6,12 +6,12 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Meredith Welch 
+title: 
 permalink: /
 ---
 
 Welcome to my website! 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/headshot.jpg" width="100" height="100">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/headshot.jpg" width=50% height=50%>
 
 
