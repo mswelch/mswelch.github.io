@@ -12,6 +12,6 @@ permalink: /
 
 Welcome to my website! 
 
-<img src="{{ site.url }}{{ site.baseurl }}/assets/headshot.jpg" width="50%" height="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/assets/headshot.jpg" width="" height="">
 
 
