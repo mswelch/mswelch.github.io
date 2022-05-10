@@ -10,4 +10,4 @@ title: CV
 permalink: /cv/
 ---
 
-<embed src="{{ site.url }}{{ site.baseurl }}/assets/Welch_CV_042022.pdf"/>
+<embed src="{{ site.url }}{{ site.baseurl }}/assets/Welch_CV_042022.pdf" width="1000" height="1000"/>
